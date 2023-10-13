@@ -1,0 +1,10 @@
+br/com/andersonsilva019/todolist/task/TaskModel.class
+br/com/andersonsilva019/todolist/task/ITaskRepository.class
+br/com/andersonsilva019/todolist/users/UserModel.class
+br/com/andersonsilva019/todolist/filter/FilterTaskAuth.class
+br/com/andersonsilva019/todolist/utils/Utils.class
+br/com/andersonsilva019/todolist/users/UserController.class
+br/com/andersonsilva019/todolist/task/TaskController.class
+br/com/andersonsilva019/todolist/users/IUserRepository.class
+br/com/andersonsilva019/todolist/errors/ExceptionHandlerController.class
+br/com/andersonsilva019/todolist/TodolistApplication.class

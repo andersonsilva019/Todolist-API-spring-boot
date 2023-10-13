@@ -1,0 +1,10 @@
+/home/anderson/Documentos/www/java/course-sprint-boot/todolist/src/main/java/br/com/andersonsilva019/todolist/task/TaskController.java
+/home/anderson/Documentos/www/java/course-sprint-boot/todolist/src/main/java/br/com/andersonsilva019/todolist/users/IUserRepository.java
+/home/anderson/Documentos/www/java/course-sprint-boot/todolist/src/main/java/br/com/andersonsilva019/todolist/task/TaskModel.java
+/home/anderson/Documentos/www/java/course-sprint-boot/todolist/src/main/java/br/com/andersonsilva019/todolist/utils/Utils.java
+/home/anderson/Documentos/www/java/course-sprint-boot/todolist/src/main/java/br/com/andersonsilva019/todolist/filter/FilterTaskAuth.java
+/home/anderson/Documentos/www/java/course-sprint-boot/todolist/src/main/java/br/com/andersonsilva019/todolist/users/UserController.java
+/home/anderson/Documentos/www/java/course-sprint-boot/todolist/src/main/java/br/com/andersonsilva019/todolist/TodolistApplication.java
+/home/anderson/Documentos/www/java/course-sprint-boot/todolist/src/main/java/br/com/andersonsilva019/todolist/users/UserModel.java
+/home/anderson/Documentos/www/java/course-sprint-boot/todolist/src/main/java/br/com/andersonsilva019/todolist/errors/ExceptionHandlerController.java
+/home/anderson/Documentos/www/java/course-sprint-boot/todolist/src/main/java/br/com/andersonsilva019/todolist/task/ITaskRepository.java
